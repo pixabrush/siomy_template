@@ -1,2 +1,2 @@
 # siomy_template
-It is a html template for websites responsive and animated
+It a modern ,responsive and animated html website template. The design of the template can be so suitable for website representing new technologies, or computer science etc..
